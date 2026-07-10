@@ -1,1 +1,3 @@
 # note_for_galactical_cosmology
+
+SED拟合的参数设置非常重要。实际上dl2014拟合非常糟糕
